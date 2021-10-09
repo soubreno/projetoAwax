@@ -17,4 +17,6 @@ Lembrando que é apenas para fins de estudo e foram utilizados somentes as tecno
 🔖 Layout
 ----------
 
+Feito por Breno Marques.
+
 Design criado por Alexandre Bukin.
