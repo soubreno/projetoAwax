@@ -1,4 +1,4 @@
-💻 Projeto
+💻 Projeto Awax 
 ------------
 
 Projeto realizado durante o módulo HTML5 e CSS3 do curso FullStack da B7Web.
